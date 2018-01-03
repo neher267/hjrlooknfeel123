@@ -1,0 +1,18 @@
+
+// Fonts
+
+// Variables
+@import "variables";
+
+// Bootstrap
+
+body {
+	background-color: $body-bg;
+}
+.sidebar-menu{
+	background-color: $side-nav-bg;
+}
+#menu li a{
+	background-color: $side-nav-bg;
+	border-left: 4px solid #side-nav-border;
+}
